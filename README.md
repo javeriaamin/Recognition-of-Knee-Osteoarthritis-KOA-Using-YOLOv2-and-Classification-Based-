@@ -19,7 +19,4 @@ Data Availability Statement: Data is downloaded from that P. Chen, “Knee osteo
 
 
     
-    detectedI = insertObjectAnnotation(I,'rectangle',bboxes,cellstr(labels));
-end
-figure
-imshow(detectedI)
+
