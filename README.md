@@ -1,7 +1,7 @@
 # Recognition-of-Knee-Osteoarthritis-KOA-Using-YOLOv2-and-Classification-Based-on Convolutional Neural Network
 Usman Yunus  , Javeria Amin 2	, Muhammad Sharif 1, Mussarat Yasmin 1, Seifedine Kadry 3  and Sujatha Krishnamoorthy 4,5,*
 
-# The 2D grayscale radiograph images are converted to 3-channel and LBP features are extracted having the dimension of N × 59 out of which the best features of N × 55 are selected using PCA. The deep features are also extracted using Alex-Net and Dark-net-53 with the dimensions of N × 1024 and N × 4096, respectively, where N represents the number of images. Then, N × 1000 features are selected individually from both models using PCA. Finally, the extracted features are fused serially with the dimension of N × 2055 and passed to the classifiers on a 10-fold cross-validation.
+The 2D grayscale radiograph images are converted to 3-channel and LBP features are extracted having the dimension of N × 59 out of which the best features of N × 55 are selected using PCA. The deep features are also extracted using Alex-Net and Dark-net-53 with the dimensions of N × 1024 and N × 4096, respectively, where N represents the number of images. Then, N × 1000 features are selected individually from both models using PCA. Finally, the extracted features are fused serially with the dimension of N × 2055 and passed to the classifiers on a 10-fold cross-validation.
 
 
 # Dataset
