@@ -7,11 +7,8 @@ The 2D grayscale radiograph images are converted to 3-channel and LBP features a
 
 # Dataset
 Data Availability Statement: Data is downloaded from that P. Chen, “Knee osteoarthritis severity grading dataset,” Mendeley Data, v1 http://dx.doi.org/10.17632/56rmx5bjcr, vol. 1, 2018. https: //radiopaedia.org/articles/osteoarthritis-of-the-knee (accessed on 5 July 2022).
-
-Zenodo (Dataset Archive):
 https://zenodo.org/uploads/16566302
-Username: draminwah@gmail.com
-Password: AAAminjaveria123!
+
 
 
     
